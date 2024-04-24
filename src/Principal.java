@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Conversor {
+public class Principal {
     public static void main(String[] args) {
         int opcion = 0;
         String menu = """
