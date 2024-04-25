@@ -1,6 +1,7 @@
 <h1 align="center"> Convertidor de monedas </h1>
 
-![1](https://github.com/acabrera11/chalengealura/assets/37312397/fd83e089-7add-4ff6-a006-d34e9e21f551)
+![1](https://github.com/acabrera11/chalengealura/assets/37312397/50e2c587-16e7-4315-bf0e-916e4dd443ed)
+
 
 ### Indice
 
